@@ -1,0 +1,9 @@
+body {
+    font-family: 'Arial Black';
+    text-align: center;
+}
+
+#board {
+    background-color: rgb(226, 226, 226);
+    border-bottom: 10px solid rgb(124, 124, 124);
+}
